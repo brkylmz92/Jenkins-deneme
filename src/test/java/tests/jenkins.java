@@ -8,4 +8,7 @@ public class jenkins {
 
     @Test
     void Test11() { assertTrue(true); }
+
+    @Test
+    void Test12() { assertTrue(true); }
 }
